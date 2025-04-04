@@ -27,8 +27,8 @@ _(Insert 1-2 good screenshots of your GUI here. You can upload them to the GitHu
 1. **Clone the repository:**
 
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone https://github.com/AruneshwarAR/photo-face-finder.git
+   cd photo-face-finder
    ```
 
 2. **Create a virtual environment (recommended):**

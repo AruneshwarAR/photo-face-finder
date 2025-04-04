@@ -1,4 +1,8 @@
-face_recognition>=1.3.0
-Pillow>=10.0.0
-numpy>=1.24.0
-pillow-heif>=0.15.0  # Optional: for HEIC/HEIF support 
+click==8.1.8
+dlib==19.24.6
+face-recognition==1.3.0
+face_recognition_models==0.3.0
+numpy==2.2.4
+pillow==11.1.0
+pillow_heif==0.22.0
+tkinter==8.6.14
