@@ -71,7 +71,7 @@ _(Insert 1-2 good screenshots of your GUI here. You can upload them to the GitHu
 
 ## Disclaimer
 
-**This is a personal project developed in my own time and is not affiliated with, endorsed by, or related to my employer (Cognizant) in any way.**
+**This is a personal project developed in my own time and is not affiliated with, endorsed by, or related to my employer in any way.**
 
 ## License
 
