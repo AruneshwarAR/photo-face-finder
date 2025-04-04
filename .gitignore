@@ -1,0 +1,34 @@
+# Python virtual environment
+venv/
+env/
+*.pyenv
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database file (IMPORTANT - Do not commit your personal index!)
+*.db
+*.db-journal
+photo_face_index.db
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+wheels/
+*.egg
+
+# macOS specific files
+.DS_Store
+
+# IDE / Editor specific
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace 
+
+helper.txt
